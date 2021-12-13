@@ -43,7 +43,7 @@ Jinja2==2.11.1
 kiwisolver==1.1.0
 libtorrent-test==1.2.0
 load==2019.4.13
-lxml==4.5.0
+lxml==4.6.5
 magnet2torrent==1.0.4
 Mako==1.1.2
 MarkupSafe==1.1.1
