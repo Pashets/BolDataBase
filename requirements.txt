@@ -55,7 +55,7 @@ multidict==4.7.5
 music==0.7b0
 mysql-connector==2.2.9
 mysql-connector-python==8.0.18
-numpy==1.18.3
+numpy==1.22.0
 passlib==1.7.2
 pefile==2019.4.18
 Pillow==7.1.1
