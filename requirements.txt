@@ -45,7 +45,7 @@ libtorrent-test==1.2.0
 load==2019.4.13
 lxml==4.5.0
 magnet2torrent==1.0.4
-Mako==1.1.2
+Mako==1.2.2
 MarkupSafe==1.1.1
 matplotlib==3.1.2
 mixer==6.1.3
